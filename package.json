@@ -1,0 +1,32 @@
+{
+  "name": "go-offline-dms",
+  "version": "1.9.0",
+  "description": "usage limiter for discord addicts",
+  "main": "./dist/index.js",
+  "scripts": {
+    "clean-logs": "rm -f logs/*.log",
+    "clean": "rm -rf dist && rm -rf node_modules && rm -f package-lock.json",
+    "clean-build": "npm run clean && npm run first-build",
+    "first-build": "npm install && npm run build",
+    "build": "tsc -p .",
+    "start": "node dist/index.js",
+    "go": "npm run build && npm run start",
+    "dry-run": "npm run clean-build && npm run start"
+  },
+  "author": "zudsniper",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "discord.js-selfbot-v13": "^2.13.2",
+    "dotenv": "^10.0.0",
+    "figlet": "^1.6.0",
+    "image-to-ascii": "^3.0.13",
+    "node-powershell": "^5.0.1",
+    "winston": "^3.3.3",
+    "winston-levelonly": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}

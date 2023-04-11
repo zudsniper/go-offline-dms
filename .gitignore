@@ -1,0 +1,9 @@
+**/dist/
+**/node_modules/
+**/logs/
+kill-process-by-name/
+
+**.env
+
+**/config.json
+

@@ -1,0 +1,10 @@
+{
+  "//0": "YOU MUST GET THIS TOKEN YOURSELF. Google might have the answer.",
+  "token": "some silly sequence of ([0-9A-Za-z]+)",
+  "//1": "period to reset the `messageLimit` counter, in minutes",
+  "periodMins": 10,
+  "//2": "how many messages to allow every `period`",
+  "messageLimit": 10,
+  "//3": "after how many messages to start warning",
+  "messageLimitWarn": 8,
+}
