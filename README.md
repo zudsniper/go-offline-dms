@@ -37,7 +37,11 @@ I just tell it to do stuff.
 
 <div align="center">
 
-![Execution when messaging a recipient -- display profile picture](https://i.imgur.com/Fyx96ah.png)  
+![Execution when messaging a recipient -- display profile picture](https://user-images.githubusercontent.com/16076573/231332926-617ae224-57bb-468e-866b-615d15175986.png)  
+
+<img src="https://user-images.githubusercontent.com/16076573/231333079-4bc1bddf-0a4b-4a4f-8bd8-e69a09cea3ae.png" alt="real doggo" style="max-width: 100%;" weight="160rem">
+
+
 </div>
 
 
