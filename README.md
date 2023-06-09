@@ -1,3 +1,9 @@
+> ### 🟥 `UNFINISHED` 🟥 
+> _I got distracted on discord._  
+>   
+> ---  
+> 
+
 # `go-offline-dms`
 _the successor to my EXTREMELY WELL RECEIVED first version, `go-offline-dms` offers the feature of kind of actually working._  
 Sometimes.
